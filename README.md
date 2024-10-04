@@ -54,14 +54,14 @@ Include code examples and instructions on how to integrate your component.
 Include your name or GitHub handle.
 ```
 
-# Guidelines
+## Guidelines
 
 Be respectful and collaborative. We maintain a positive environment for all contributors.
 
-Follow our CONTRIBUTING.md for detailed submission and formatting rules.
+Follow our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed submission and formatting rules.
 
 If your PR requires amendments, it's a collaborative effort. Let's make this repository the best it can be together!
 
-# 📄 License
+## 📄 License
 
 This repository is licensed under the MIT License.
